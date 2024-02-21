@@ -2,6 +2,7 @@
 title: "Linear Algebra II"
 linkTitle: "Linear Algebra II"
 type: docs
+weight: 30
 ---
 
 An introduction to intermediate level topics in Linear Algebra by a series of [probing questions and answers](https://en.wikipedia.org/wiki/Socratic_questioning). Specifically the following topics are covered:  

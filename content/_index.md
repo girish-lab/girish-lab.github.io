@@ -1,5 +1,5 @@
 ---
-title: gv lab
+title: girish lab
 ---
 
 
@@ -14,7 +14,7 @@ IIIT Hyderabad
   About <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 <a class="btn btn-lg btn-secondary me-3 mb-4" href="/#contact">
-  Contact <i class="fab fa-envelope ms-2 "></i>
+  Contact <i class="fas fa-envelope ms-2 "></i>
 </a>
 {{< /blocks/my_cover >}}
 {{% blocks/section color="white"%}}
@@ -28,13 +28,10 @@ IIIT Hyderabad
 
 
 
-{{% blocks/section color="white"%}}
-## Teaching
-{{% /blocks/section %}}
 
 
 
-{{% blocks/group color="light"%}}
+{{% blocks/group color="white"%}}
 ## Group
 {{% /blocks/group %}}
 

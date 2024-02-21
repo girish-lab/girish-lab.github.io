@@ -11,3 +11,14 @@ $td-enable-google-fonts: true;
 
 $google_font_name: "Roboto";
 $google_font_family: "Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900";
+
+@media (min-width: 1200px) {
+.col-xl-2 {
+    width: 25%;
+} 
+.col-xl-8 {
+    width: 50%;
+}
+
+
+}

@@ -2,6 +2,7 @@
 title: "Advanced Mathematical Structures"
 linkTitle: "Adv. Math. Structures"
 type: docs
+weight: 50
 ---
 
 This course is intended to familiarize the students with the types of mathematical reasoning found in theoretical research on computing and communications. The course contains a broad set of intermediate and advanced level topics in Algebra, Combinatorics, Probability and Graph Theory.
