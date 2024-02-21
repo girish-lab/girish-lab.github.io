@@ -1,0 +1,37 @@
+{{ $col_id := .Get "color" | default .Ordinal -}}
+{{ $height := .Get "height" | default "auto"  -}}
+{{ $type   := .Get "type" | default "container" -}}
+
+<div><a id="td-block-{{ .Ordinal }}" class="td-offset-anchor"></a></div>
+<section class="row td-box td-box--{{ $col_id }} td-box--height-{{ $height }}">
+<div class="col">
+<div class="{{ $type }}">
+{{/* Do NOT remove this comment! It ends the HTML block above. See https://spec.commonmark.org/0.30/#html-blocks, 7. */}}
+{{ .Inner -}}
+
+<div class="row row-cols-1 row-cols-md-3 g-4">
+{{ range (where .Site.Pages "Section" "group") }}
+   {{/*  {{ range .Pages.GroupByParam "person_type" }}  */}}
+     {{/*  {{ range .Pages }}  */}}
+      
+      {{/*  {{ end }}  */}}
+   {{/*  {{ end }}  */}}
+   {{ if .Params.name }}
+   <div class="col">
+    <div class="card h-100">
+      <img src="/group/{{ (index (split .File.Path "/") 1) }}/pic.jpg" style="height: 200px; object-fit: cover; object-position: 80% 0;" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title"><a href="{{ .Params.homepage }}">{{ .Params.name }}</a></h5>
+        <p class="card-text">{{ .Params.designation }}</p>
+      </div>
+    </div>
+  </div>
+  {{ end }}
+{{ end }}
+<h5><a href="/group"> Past Members</a></h5>
+</div>
+
+</div>
+</div>
+</section>
+{{/**/ -}}
