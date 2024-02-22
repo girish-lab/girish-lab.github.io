@@ -10,20 +10,8 @@ enableRobotsTXT = true
 enableGitInfo = true
 
 [menus]
-[[menus.main]]
-    name = 'Research'
-    url = '/#research'
-    weight = 10
 
-[[menus.main]]
-    name = 'Group'
-    url = '/#group'
-    weight = 30
 
-[[menus.main]]
-    name = 'Contact'
-    url = '/#contact'
-    weight = 40
 # Comment out to enable taxonomies in Docsy
 # disableKinds = ["taxonomy", "taxonomyTerm"]
 
@@ -82,15 +70,12 @@ anchor = "smart"
 [outputs]
 # section = ["HTML", "print", "RSS"]
 
-[params]
-privacy_policy = "https://policies.google.com/privacy"
-
 # First one is picked as the Twitter card image if not set on page.
 # images = ["images/project-illustration.png"]
 
 # Menu title if your navbar has a versions selector to access old versions of your site.
 # This menu appears only if you have at least one [params.versions] set.
-version_menu = "Releases"
+# version_menu = "Releases"
 
 # Flag used in the "version-banner" partial to decide whether to display a
 # banner on every page indicating that this is an archived version of the docs.
@@ -165,37 +150,37 @@ enable = false
 
 [params.links]
 # End user relevant links. These will show up on left side of footer and in the community page if you have one.
-[[params.links.user]]
-  name = "User mailing list"
-  url = "https://example.org/mail"
-  icon = "fa fa-envelope"
-  desc = "Discussion and help from your fellow users"
-[[params.links.user]]
-  name ="Twitter"
-  url = "https://example.org/twitter"
-  icon = "fab fa-twitter"
-  desc = "Follow us on Twitter to get the latest news!"
-[[params.links.user]]
-  name = "Stack Overflow"
-  url = "https://example.org/stack"
-  icon = "fab fa-stack-overflow"
-  desc = "Practical questions and curated answers"
+# [[params.links.user]]
+#   name = "User mailing list"
+#   url = "https://example.org/mail"
+#   icon = "fa fa-envelope"
+#   desc = "Discussion and help from your fellow users"
+# [[params.links.user]]
+#   name ="Twitter"
+#   url = "https://example.org/twitter"
+#   icon = "fab fa-twitter"
+#   desc = "Follow us on Twitter to get the latest news!"
+# [[params.links.user]]
+#   name = "Stack Overflow"
+#   url = "https://example.org/stack"
+#   icon = "fab fa-stack-overflow"
+  # desc = "Practical questions and curated answers"
 # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
-[[params.links.developer]]
-  name = "GitHub"
-  url = "https://github.com/google/docsy"
-  icon = "fab fa-github"
-  desc = "Development takes place here!"
-[[params.links.developer]]
-  name = "Slack"
-  url = "https://example.org/slack"
-  icon = "fab fa-slack"
-  desc = "Chat with other project developers"
-[[params.links.developer]]
-  name = "Developer mailing list"
-  url = "https://example.org/mail"
-  icon = "fa fa-envelope"
-  desc = "Discuss development issues around the project"
+# [[params.links.developer]]
+#   name = "GitHub"
+#   url = "https://github.com/google/docsy"
+#   icon = "fab fa-github"
+#   desc = "Development takes place here!"
+# [[params.links.developer]]
+#   name = "Slack"
+#   url = "https://example.org/slack"
+#   icon = "fab fa-slack"
+#   desc = "Chat with other project developers"
+# [[params.links.developer]]
+#   name = "Developer mailing list"
+#   url = "https://example.org/mail"
+#   icon = "fa fa-envelope"
+#   desc = "Discuss development issues around the project"
 
 # hugo module configuration
 

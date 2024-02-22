@@ -3,43 +3,28 @@ title: girish lab
 ---
 
 
-{{<blocks/my_cover image_anchor="top" height="medium" profile_pic="/group/girishvarma/profile_pic.jpg" >}}
-# Girish Varma  
+{{<blocks/my_cover image_anchor="top" height="full" profile_pic="/group/girishvarma/profile_pic.jpg" >}}
+# Girish Varma  <a href="/group/girishvarma"><i class="fas fa-arrow-alt-circle-right ms-2"></i></a>
+
 Assistant Professor  
 Center for Security, Theory and Algorithmic Research &    
 Machine Learning Lab  
 IIIT Hyderabad  
+<i class="fas fa-envelope "></i><span class="ms-2">girish[dot]varma[at]iiit[dot]ac[dot]in   </span>  
+<i class="fa-solid fa-building"></i> <span class="ms-2">A3-118, Vindya Building, IIIT Hyderabad</span>
 
-<a class="btn btn-lg btn-primary me-3 mb-4" href="/group/girishvarma">
-  About <i class="fas fa-arrow-alt-circle-right ms-2"></i>
-</a>
-<a class="btn btn-lg btn-secondary me-3 mb-4" href="/#contact">
-  Contact <i class="fas fa-envelope ms-2 "></i>
-</a>
+
 {{< /blocks/my_cover >}}
-{{% blocks/section color="white"%}}
+<!-- {{% blocks/section color="white"%}}
 ## Updates
-{{% /blocks/section %}}
-
-{{% blocks/research color="light"%}}
-
-## Research
-{{% /blocks/research %}}
-
-
-
-
-
-
-{{% blocks/group color="white"%}}
-## Group
-{{% /blocks/group %}}
-
-<!-- {{% blocks/section color="light"%}}
-## Group 
 {{% /blocks/section %}} -->
 
 
+<!-- <!-- {{% blocks/section color="light"%}}
+## Group 
+{{% /blocks/section %}} -->
+ -->
+<!-- 
 {{% blocks/section color="dark"%}}
 ## Contact
-{{% /blocks/section %}}
+{{% /blocks/section %}} -->
