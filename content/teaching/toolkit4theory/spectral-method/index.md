@@ -1,5 +1,5 @@
 ---
-title: "ITCS Lec 2"
+title: "3. Graphs & Eigenvalues"
 type: docs
 
 menu: 

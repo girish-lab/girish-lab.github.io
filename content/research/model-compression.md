@@ -27,10 +27,3 @@ math = false
 #caption = "My caption :smile:"
 
 +++
-
-### Students
-- Soham Saha
-    - [slides](/pdfs/Soham-Model-Compression.pdf)
-    - [R & D Showcase '16 poster](/pdfs/RDShowcase.pdf)
-- Ameya Prabhu
-    - [Final Report](/pdfs/Ameya-indep-study.pdf)
