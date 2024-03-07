@@ -36,6 +36,8 @@ Group Theory
 ## Lecture 2  
 Legrange's Theorem, Fermat Little Theorem, Orbits and Stabilizers
 
+[Video](https://iiitaphyd-my.sharepoint.com/personal/dcr_iiit_ac_in/_layouts/15/stream.aspx?id=%2Fpersonal%2Fdcr%5Fiiit%5Fac%5Fin%2FDocuments%2FProf%2E%20Girish%20Varma%2007%2D03%2D2024%2Emov&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
+
 ### Read
 - [Slides](https://www.math.cmu.edu/~af1p/Teaching/Combinatorics/Slides/Polya.pdf)
 - Chapters 6 in [TJ] (Mostly simple examples only. You may skip over familiar parts)
