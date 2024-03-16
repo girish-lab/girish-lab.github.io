@@ -67,4 +67,7 @@ Method of Conditional Expectations
 
 ### Read & Solve
 
+
 https://girishvarma.in/teaching/adv-math-structs/#lec-3-isomorphisms--homomorphisms--cosets--legranges-theorem--fermat-little-theorem--flt-proof-using-polya-counting   
+
+For randomized algorithms, read: Chapter 2 of https://www.cs.purdue.edu/homes/spa/courses/pg17/mu-book.pdf 
