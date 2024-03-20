@@ -91,3 +91,7 @@ Randomized algorithm for MinCut.
 (http://faculty.cs.tamu.edu/klappi/cpsc411s09/minimum_cut.pdf)  
 Ramsey Theorem using Probabilistic Method   
  (Section 2.1 in http://www.cs.cmu.edu/~15850/handouts/matousek-vondrak-prob-ln.pdf)
+
+
+[Video](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/dcr_iiit_ac_in/ERU5TD4d00FEkkvURB-5QvEBJAsuv2j9Cnhj7fO9k5_Kzw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Lc7Owr)
+  
