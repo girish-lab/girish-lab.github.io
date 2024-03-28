@@ -95,3 +95,10 @@ Ramsey Theorem using Probabilistic Method
 
 [Video](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/dcr_iiit_ac_in/ERU5TD4d00FEkkvURB-5QvEBJAsuv2j9Cnhj7fO9k5_Kzw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Lc7Owr)
   
+
+
+## Lecture 6 
+Hamiltonian Paths in Tournaments   (see Section 3.2 in https://www.cs.cmu.edu/~15850/handouts/matousek-vondrak-prob-ln.pdf)  
+Intersecting Families (Erdos Ko Rado Theorem)  (see Section 2.3 in https://www.cs.cmu.edu/~15850/handouts/matousek-vondrak-prob-ln.pdf)  
+Sperner's Lemma  (see Section 1.2.1 in https://ocw.mit.edu/courses/18-226-probabilistic-method-in-combinatorics-fall-2020/mit18_226f20_full_notes.pdf)  
+Randomized Protocol for Equality checking  (see last para of page 6 in https://people.cs.rutgers.edu/~sa1497/courses/cs514-s20/lec8.pdf)  
