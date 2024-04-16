@@ -84,8 +84,6 @@ For randomized algorithms, read: Chapter 2 of https://www.cs.purdue.edu/homes/sp
   3. Use above to show that $p^k$ divides $n^{p^k} - n^{p^{k-1}}$.    
     [Hint] This is the strict generalization of the [example we did in class: the proof of FLT theorem](https://keriimov.wordpress.com/2015/05/24/a-combinatorial-proof-for-fermats-little-theorem-2/). For getting that result, substitute $k=1$ and $n = a$.
 
-
-  
 ## Lecture 5 
 Randomized algorithm for MinCut.    
 (http://faculty.cs.tamu.edu/klappi/cpsc411s09/minimum_cut.pdf)  
@@ -95,8 +93,6 @@ Ramsey Theorem using Probabilistic Method
 
 [Video](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/dcr_iiit_ac_in/ERU5TD4d00FEkkvURB-5QvEBJAsuv2j9Cnhj7fO9k5_Kzw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Lc7Owr)
   
-
-
 ## Lecture 6 
 Hamiltonian Paths in Tournaments   (see Section 3.2 in https://www.cs.cmu.edu/~15850/handouts/matousek-vondrak-prob-ln.pdf)  
 Intersecting Families (Erdos Ko Rado Theorem)  (see Section 2.3 in https://www.cs.cmu.edu/~15850/handouts/matousek-vondrak-prob-ln.pdf)  
@@ -104,3 +100,10 @@ Sperner's Lemma  (see Section 1.2.1 in https://ocw.mit.edu/courses/18-226-probab
 Randomized Protocol for Equality checking  (see last para of page 6 in https://people.cs.rutgers.edu/~sa1497/courses/cs514-s20/lec8.pdf)  
  
 [Video](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/dcr_iiit_ac_in/EfRAv0V_9dhKhJOsBA85A38BdlO9SvYqxC8p4nyADTUrng?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=AxvxCU)
+
+## Lecture 7
+Spectral Graph Theory  
+Expanders [Read Section 4.1.1](https://people.seas.harvard.edu/~salil/pseudorandomness/expanders.pdf)   
+
+[Video](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/dcr_iiit_ac_in/Ea70DJJqjbJGlAPZd3f71aMBl29l5IB-d-ECP8tT3XEIfA?e=VDUFJK&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
+
