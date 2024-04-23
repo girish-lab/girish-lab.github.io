@@ -107,3 +107,13 @@ Expanders [Read Section 4.1.1](https://people.seas.harvard.edu/~salil/pseudorand
 
 [Video](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/dcr_iiit_ac_in/Ea70DJJqjbJGlAPZd3f71aMBl29l5IB-d-ECP8tT3XEIfA?e=VDUFJK&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
 
+
+## Lecture 8
+
+Coding Theory [Read Chapter 28](http://cs-www.cs.yale.edu/homes/spielman/sagt/sagt.pdf)  
+
+### Assignment Problems  
+Let $G$ be a undirected d-regular graph and $A$ be its adjacency matrix. Show that   
+1. The eigen values of $A$ are between $-d$ and $d$.
+2. The number of connected components of $G$ $=$ the number of linearly independent eigen vectors of $A$ with eigen value $d$.
+3. $-d$ is an eigen value of $A$ if and only of $G$ is a bipartite graph.
