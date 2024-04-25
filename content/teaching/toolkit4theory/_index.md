@@ -117,3 +117,7 @@ Let $G$ be a undirected d-regular graph and $A$ be its adjacency matrix. Show th
 1. The eigen values of $A$ are between $-d$ and $d$.
 2. The number of connected components of $G$ $=$ the number of linearly independent eigen vectors of $A$ with eigen value $d$.
 3. $-d$ is an eigen value of $A$ if and only of $G$ is a bipartite graph.
+
+## Lecture 9
+Expander Codes [Read](https://www.cs.yale.edu/homes/spielman/eigs/lect10.pdf)
+
